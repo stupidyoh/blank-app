@@ -1,19 +1,14 @@
-# 🎈 Blank app template
+# Streamlit Chatbot
+HW 7
 
-A simple Streamlit app template for you to modify!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+### 실행방법
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. 터미널에서 아래 명령어 실행:
+```
+> streamlit run email_chatbot.py
+> streamlit run news_brief_chatbot.py
+```
+2. 로컬 서버에 접속
+3. 사용법 확인 후 사이드바에서 설정
+4. Chatbot과 대화 시작
